@@ -1,0 +1,4 @@
+Subject - obtained from subject_train/test data sets and merged with the features observations in x_test/train
+Activities - obtained from activity_labels data sets,merged with y_test/train and finally merged with the features observations in x_test/train
+Feature - name obtained from the feature file used to name each variable in the original x_test/train file
+Value - Original value associated to each variable and then feature in the x_test/train files
